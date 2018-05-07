@@ -8,3 +8,6 @@ Dosyayı tema klasörünüze ekleyin ve adres çubuğundan dosyayı çağırın.
 
 Sistem Kamer Dinç'in oluşturduğu il ve ilçeler yapısını kullanmaktadır.
 https://github.com/merkjs/Turkiye-iller-ilceler-PHP-Array/
+
+# Taxonomy Olarak Kullanma
+Eğer özel taxonomy olarak kullanmak isterseniz https://wordpress.org/plugins/taxonomy-converter/ adresindeki eklenti ile geçiş yapabilirsiniz.
