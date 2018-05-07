@@ -6,5 +6,5 @@ Dosyayı tema klasörünüze ekleyin ve adres çubuğundan dosyayı çağırın.
 
 Örnek: http://www.adresiniz.com/wp-content/themes/temaadi/iller.php
 
-Sistem Kamer Dinç'in oluşturduğu il ve ilçeler yapısnı kullanmaktadır.
+Sistem Kamer Dinç'in oluşturduğu il ve ilçeler yapısını kullanmaktadır.
 https://github.com/merkjs/Turkiye-iller-ilceler-PHP-Array/
